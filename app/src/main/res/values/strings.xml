@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Praiyawang</string>
+
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+
+    <string name="sejarah1">
+        Kampung Adat Praiyawang berada di Desa Rindi, Kecamatan Rindi, sekitar 69 km di sebelah timur Kota Waingapu Sumba Timur.
+        Kampung Prayawang merupakan kampung raja tertua di Sumba Timur yang didirikan jauh sebelum kedatangan Belanda.
+        Menurut catatan sejarah pemerintah Belanda, Kampung Praiyawang dikukuhkan dengan Korte Verklaring tahun 1918 dengan rajanya yang bernama Umbu Hina Marumata.
+        Korte Verklaring adalah perjanjian pendek berisi pernyataan setia kepada raja Belanda atau gubernur jenderal sebagai wakilnya.
+    </string>
+
+    <string name="sejarah2">
+        Sebagaimana kampung-kampung lain di Sumba, Kampung Praiyawang dibangun lebih tinggi dari jalan umum.
+        Situs Kampung Prayawang memiliki empat pintu gerbang, dengan gerbang utama disebut pidu lakiku unbatu yang terletak disebelah barat.
+        Pada keempat pintu gerbang terdapat menhir yang dalam istilah lokal disebut katoada kawidu yang melambangkan penjaga batu kubur.
+        Pintu depan tempat tamu masuk kampung jika ada perhelatan besar, seperti pernikahan atau penguburan, sementara pintu samping digunakan untuk memasukkan barang atau hewan.
+    </string>
+
+    <string name="sejarah3">
+        Tinggalan megalitik di Situs Rindi Praiyawang terdiri atas dua jenis, yakni kubur batu dan menhir.
+        Kubur batu diklasifikasikan menjadi dua, yakni kubur batu yang terbuat dari batu yang dipahat dan kubur batu yang terbuat dari semen.
+        Kubur batu tersebut disangga oleh empat tiang yang terbuat dari batu atau semen cor. Kubur batu yang ada di Kampung Rindi umumnya berukuran 4 x 2 meter dengan berat mencapai puluhan ton.
+        Kubur batu tersebut berbentuk persegi yang bagian tengahnya dilubangi sebagai tempat jenazah, dan bagian atasnya diberi penutup yang terbuat dari batu.
+        Jenazah yang diletakkan dalam kubur batu dalam posisi meringkuk dan dibalut dengan puluhan kain adat Sumba.
+        Posisi jenazah yang meringkuk memiliki filosofi, yaitu seperti bayi ketika masih berada didalam rahim ibunya.
+        Oleh karena itu, hal serupa dilakukan ketika meninggal karena masyarakat marapu meyakini masih ada kehidupan setelah kematian.
+        Bagi orang Sumba, kematian merupakan permulaan hidup baru di alam akhirat. Oleh karena itu, mereka berusaha memberikan bekal kubur pada si mati.
+    </string>
+
+    <string name="sejarah4">
+        Upacara penguburan sangat penting bagi orang Sumba yang menganut kepercayaan marapu.
+        Mereka menghormati arwah leluhur yang menjadi perantara dalam berhubungan dengan sang pencipta.
+        Masyarakat Sumba percaya bahwa orang yang meninggal hanya pindah tempat sehingga kekayaannya dibawa ke liang kubur, seperti perhiasan emas dan manik-manik.
+        Upacara penguburan dilakukan secara besar-besaran dengan menyembelih puluhan kerbau dan kuda sebagai bekal di alam sana.
+        Tidak jauh dari kubur batu dibuat menhir atau penji dengan berbagai ornamen yang masing-masing memiliki makna.
+        Ornamen binatang, seperti kerbau, buaya, kura-kura, dan harimau melambangkan raja, sedangkan ayam dan babi melambangkan kepemimpinan.
+        Terdapat juga ornamen udang yang melambangkan kehidupan hanya berganti bentuk dunia.
+        Penji melambangkan kebesaran bangsawan dan hanya keturunan raja yang boleh membangunnya di atas batu kubur. Menhir atau penji yang umumnya menyertai kubur batu berbentuk seperti tugu yang datar di kedua permukaannya dan biasanya ditempatkan di samping atau di atas kubur batu.
+        Penji memiliki pahatan-pahatan yang sarat akan makna tertentu, seperti burung nuri melambangkan musyawarah, burung kakatua melambangkan pengambil keputusan, kuda atau jara melambangkan kekayaan, dan buaya atau wuya ara melambangkan kebesaran.
+        Adapun penyu atau ana kara wullang melambangkan keagungan, ayam atau manu melambangkan pemimpin, profil manusia melambangkan papanggang yang menghantarkan jenazah, dan gong yang melambangkan persatuan.
+    </string>
+
+    <string name="sejarah5">
+        Kebiasaan mengunyah sirih pinang yang merupakan ciri khas masyarakat sumba menyajikan sirih pinang dalam penyambutan tamu adalah sebuah sopan santun.
+        Makan sirih pinang menyimbolkan kedewasaan yaitu sirih sebagai kejantanan, pinang betina, dan kapur spermanya.
+        Ketiga bercampur dengan air ludah menimbulkan warna merah yang bila diludahkan akan menjadi symbol darah pada saat kelahiran bayi di bumi.
+    </string>
+
+    <!-- Judul Kebudayaan -->
+
+    <string name="kebudayaan1">
+        MARAPU
+    </string>
+
+    <string name="kebudayaan2">
+        BELIS/PERNIKAHAN
+    </string>
+
+    <string name="kebudayaan3">
+        TENUN IKAT SUMBA TIMUR
+    </string>
+
+    <string name="kebudayaan4">
+        SIRIH PINANG
+    </string>
+
+    <string name="kebudayaan5">
+        TARIK BATU KUBUR
+    </string>
+
+    <string name="kebudayaan6">
+        RUMAH ADAT
+    </string>
+
+    <!-- Konten Kebudayaan -->
+
+    <string name="kontenKebudayaan1">
+        Kurang lebih setengah dari penduduk Sumba menganut kepercayaan Marapu yang percaya dengan adanya roh nenek moyang dan leluhur. Karena itu budaya dan adat Sumba banyak dipengaruhi oleh tradisi kepercayaan Marapu, termasuk upacara kematiannya. Upacara kematian yang disebut dengan “kede” ini diwarnai dengan penyerahan hewan ternak oleh keluarga atau kerabat kepada keluarga orang yang ditinggalkan. Hewan-hewan ternak tersebut kemudian akan disembelih kemudian dimasak dan disajikan kepada para pelayat. Penyembelihan hewan yang menjadi bagian dari adat Sumba Timur dan daerah lainnya merupakan bentuk persembahan kepada roh nenek moyang dan leluhur yang dipercaya ikut menghadiri upacara pemakaman. Budaya Sumba Timur ini memiliki makna untuk memanjatkan permohonan kepada Tuhan melalui leluhur dengan menyerahkan hewan-hewan ternak.
+    </string>
+
+    <string name="kontenKebudayaan2">
+        Proses pernikahan ini di mulai dari pelaporan hubungan calon pengantin kepada orang tua calon pengantin perempuan,dalam sebuah upacara yang di sebut “ketok pintu”. Pada proses ini pihakcalon pengantin laki-laki membawa kurang lebih 3 kerbau atau kuda, jika telah di setujui prosesakan berlanjut pada sebuah prosesi yang di sebut “paherang inna ama” setara dengan tunangan. pada tahap ini pengantin laki-laki membawa minimal 4 ekor kuda dan kerbau setalah itu pihak pengantin perempuan bersama tetua adat kampung setempat akan membicarakan tanggal sekaligus jumlah hewan yang akan di minta sebagai maskawin anak mereka minimal (30ekor) yang di simbolkan lewat 3 pasang kain sarung yang di serahkan ke pihak laki-laki satelah mereka selesai berunding pada waktu yang telah di tentukan, pihak laki-laki akan datang membawa hewan sebagai maskawin dan melangsungkan pernikahan adat yang di saksikan warga kampong, proses ini biasa memakan waktu sampai (2)hari bergantung pada perundingan tetua adat dan juru bicara tetualaki-laki, sebelum pengantin perempuan di serahkan kepada pengantin laki-laki, ia akan melalui sebuah proses yang disebut  “tada mata huhu tada mata ana”, di mana ia menyarahkan sebuah “mamuli” yakni perhiasaan khas sumba dari emas yang seberat minimal (14)gram. Setelah itu pengantin perempuan akan di serahkan pada pihak laki-laki.
+    </string>
+
+    <string name="kontenKebudayaan3">
+        Tenun ikat Sumba adalah salah satu bentuk dari kekayaan budaya yang dimiliki oleh Provinsi NTT. Tenun ikat Sumba merupakan kain nusantara nan eksotis yang diciptakan oleh para seniman tenun dari Sumba Timur. Tenun ikat Sumba bukanlah kain yang bisa dikerjakan oleh sembarang orang. butuh proses yang rumit dan panjang untuk menghasilkan satu helai kain tenun ikat Sumba berukuran besar. Hal tersebut dikarenakan seluruh proses pengumpulan bahan dan pembuatan tenun ikat Sumba dikerjakan secara manual. Satu helai kain tenun biasanya  dikerjakan selama 2 hingga 3 bulan. Bisa 5 bulan, karena harus mencari bahan baku dan bahan pewarna ke hutan. Semua kain tenun ikat Sumba sepenuhnya dibuat dari tumbuhan, termasuk pewarnanya juga dan setiap kain tenun ikat Sumba memiliki cerita masing-masing. Ada yang berisi tentang cerita sejarah dan doa. Cerita tersebut dituangkan dalam kain melalui motif-motif. biasanya membuat motif langsung di atas kain, tidak dibuat sketsa terlebih dahulu, motif singa berkepala manusia melambangkan kekuasaan, motif bunga melambangkan kehidupan manusia yang saling membutuhkan, dan motif ular melambangkan kehidupan setelah kematian. Ada juga beberapa motif yang hanya bisa digunakan oleh masyarakat dari kelas bangsawan seperti motif patola ratu.
+    </string>
+
+    <string name="kontenKebudayaan4">
+        Dalam pergaulan sehari-hari, sirih pinang selalu dijadikan cemilan persahabatan antar teman maupun antar orang yang baru dikenal untuk mempererat hubungan. Sedangkan dalam berbagai acara-acara adat di Sumba, sirih pinang disuguhkan saat tamu pertama kali tiba. Ini melambangkan penghormatan kepada tamu tersebut, sirih-pinang diletakkan diatas piring lalu diserahkan ke setiap orang yang datang. Tamu harus menerima sirih pinang ini entah akan dimakan atau dibawa pulang. Selain menggunakan piring, tuan rumah juga biasanya menyodorkan ”kaleku” atau tempat sirih pinang serta kapur sirih kepada tamu. Kaleku  ini akan diedarkan kepada semua tamu yang ada. Tuan rumah yang baik harus selalu menyediakan sirih pinang. Bukan hanya dalam acara adat saja, dalam menyelesaikan persoalan juga diberikan sirih pinang sebagai tanda sudah saling memaafkan.
+    </string>
+
+    <string name="kontenKebudayaan5">
+        Tarik batu kubur (tengi watu) adalah tradisi budaya sumba yang masih di lestarikan sampai saat ini, lempengan batu raksasa berbobot puluhan ton di Tarik dengan tenaga manusia ke atas bukit menuju lokasi perkampungan. Ada tiga (3) tahapan yang harus di lakukan yakni pencarian bahan, pemotongan batu dan penarikan batu. Pemilihan batu harus mempetimbangkan tidak terlalu keras agar mudah dipahat, sekaligus kuat agar tidak mudah keropos atau patah saat ditarik. Lokasi pun harus strategis agak tidak menyulitkan prosesi penarikan kelak. Kegiatan pemotongan batu menjadi lempengan batu kubur sesuai ukuran yang diinginkan diawali dengan ritual pemujaan sederhana, yang bertujuan menghalau roh-roh penunggu batu agar tidak menghambat kegiatan pemotongan. Tahap penarikan batu adalah memindahkan lempengan batu dari lokasi pemotongan menuju kampung. Sebelum batu ditarik, terlebih dahulu dilakukan ritual dengan menyembelih babi bertaring, serta mempersembahkan sesaji berupa 7 batang sirih, 7 iris pinang, 7 kerat perak, telur ayam, kelapa gading serta tempurung kelapa berisi setangkup beras (koba uratta). Semuanya dipersembahkan kepada roh penunggu batu demi menjamin kelancaran prosesi. Begitu batu ditarik dan bergeser dari tempatnya, seekor ayam jantan dilepas dan kelapa gading dipecahkan pada tempat batu tadinya berada sebagai pertanda bahwa roh penunggu telah memberi ijin
+    </string>
+
+    <string name="kontenKebudayaan6">
+        Sumba Timur merupakan wilayah yang sangat kental akan ritual adatnya. Rumah adat Sumba Timur memiliki atap berbentuk lancip dan di setiap rumahnya terdapat 3 bagian yang terdiri dari bagian atas, tengah serta bawah. Bagian atap tersebut ternyata memiliki arti sebagai simbol alam dalam pandangan suku Sumba Timur. Bagian atas berarti tempat para dewa, tengah merupakan tempat manusia, dan bawah adalah tempat arwah. Rumah adat tersebut juga memiliki fungsi yang berbeda-beda seperti tempat penyimpanan jenazah, rumah ritual cukur anak Raja yang baru lahir, dan rumah tempat minum kopi.
+    </string>
+
+    <string name="profil1">Mahasiswa</string>
+    <string name="profil2">Pembimbing 1</string>
+    <string name="profil3">Pembimbing 2</string>
+
+</resources>

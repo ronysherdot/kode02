@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SejarahActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/background_wood"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/gradient_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <include
+                    android:id="@+id/toolbar"
+                    layout="@layout/toolbar" />
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <com.synnapps.carouselview.CarouselView
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="20dp"
+                            android:layout_marginTop="20dp"
+                            android:id="@+id/carouselView"
+                            android:layout_width="match_parent"
+                            android:layout_height="220dp"
+                            app:animateOnBoundary="true"
+                            app:autoPlay="true"/>
+
+                        <com.uncopt.android.widget.text.justify.JustifiedTextView
+                            android:id="@+id/txtSejarah1"
+                            android:textColor="#000"
+                            android:text="@string/sejarah1"
+                            android:layout_margin="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <com.uncopt.android.widget.text.justify.JustifiedTextView
+                            android:id="@+id/txtSejarah2"
+                            android:textColor="#000"
+                            android:text="@string/sejarah2"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <com.uncopt.android.widget.text.justify.JustifiedTextView
+                            android:id="@+id/txtSejarah3"
+                            android:textColor="#000"
+                            android:text="@string/sejarah3"
+                            android:layout_margin="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <com.uncopt.android.widget.text.justify.JustifiedTextView
+                            android:id="@+id/txtSejarah4"
+                            android:textColor="#000"
+                            android:text="@string/sejarah4"
+                            android:layout_marginStart="20dp"
+                            android:layout_marginEnd="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <com.uncopt.android.widget.text.justify.JustifiedTextView
+                            android:id="@+id/txtSejarah5"
+                            android:textColor="#000"
+                            android:text="@string/sejarah5"
+                            android:layout_margin="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                    </LinearLayout>
+
+                </ScrollView>
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+    </FrameLayout>
+
+</LinearLayout>
