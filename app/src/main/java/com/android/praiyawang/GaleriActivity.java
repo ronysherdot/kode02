@@ -57,9 +57,6 @@ public class GaleriActivity extends AppCompatActivity implements BottomNavigatio
             case R.id.galeri1:
                 fragment = new FotoActivity();
                 break;
-            case R.id.galeri2:
-                fragment = new Foto2Activity();
-                break;
         }
         return loadFragment(fragment);
     }

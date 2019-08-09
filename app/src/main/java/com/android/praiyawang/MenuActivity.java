@@ -96,7 +96,7 @@ public class MenuActivity extends AppCompatActivity {
 
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Kampung Adat Praiyangan");
+        getSupportActionBar().setTitle("Kampung Adat Praiyawang");
         Objects.requireNonNull(getSupportActionBar()).setDisplayShowHomeEnabled(true);
 
         navigationView = findViewById(R.id.navigation_view);

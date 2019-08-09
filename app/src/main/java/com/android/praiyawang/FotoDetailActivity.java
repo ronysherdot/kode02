@@ -13,6 +13,7 @@ public class FotoDetailActivity extends AppCompatActivity {
 
     Toolbar toolbar;
     ImageView imageView;
+    JustifiedTextView txtKeterangan;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,8 +24,10 @@ public class FotoDetailActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("Detail Foto");
 
+        txtKeterangan = findViewById(R.id.txtGaleri);
         imageView = findViewById(R.id.imageDetail);
         Intent intent = getIntent();
         imageView.setImageResource(intent.getIntExtra("image",0));
+        txtKeterangan.setText(intent.getIntExtra("keterangan", 0));
     }
 }

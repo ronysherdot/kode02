@@ -19,7 +19,7 @@ public class VisitActivity extends YouTubeBaseActivity implements YouTubePlayer.
     }
 
     public static final String YOUTUBE_API = "AIzaSyAmdNgQ4okM3G1so3MJQf9tBYSE-jkwMw0";
-    public static final String VIDEO_ID = "VilCyZRtg18";
+    public static final String VIDEO_ID = "2R942rsuLNg";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

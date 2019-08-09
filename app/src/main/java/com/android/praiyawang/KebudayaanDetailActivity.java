@@ -13,7 +13,7 @@ public class KebudayaanDetailActivity extends AppCompatActivity {
 
     Toolbar toolbar;
     ImageView imageView;
-    JustifiedTextView justifiedTextView;
+    JustifiedTextView justifiedTextView, txtJudul;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,5 +34,8 @@ public class KebudayaanDetailActivity extends AppCompatActivity {
 
         justifiedTextView = findViewById(R.id.txtKebudayaan);
         justifiedTextView.setText(kontenKebudayaan);
+
+        txtJudul = findViewById(R.id.txtJudulKebudayaan);
+        txtJudul.setText(judulKebudayaan);
     }
 }
